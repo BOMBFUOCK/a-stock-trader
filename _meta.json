@@ -1,0 +1,7 @@
+{
+  "slug": "a-stock-trader",
+  "name": "A股模拟交易系统",
+  "version": "1.0.0",
+  "description": "A股模拟交易系统 - 数据爬取、存储、策略回测、模拟交易",
+  "tags": ["a-stock", "trading", "china", "simulation"]
+}
